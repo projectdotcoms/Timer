@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(90, 90, 193);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+   background-color: white;
+   flex-direction: column;
+   padding: 10px;
+   border-radius: 8px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
